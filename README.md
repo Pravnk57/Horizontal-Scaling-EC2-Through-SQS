@@ -1,6 +1,9 @@
 # Horizontal-Scaling-EC2-Through-SQS
 ## Automatically Scale out whenever someone puts an object in an S3 bucket.
 
+![scale_through_sqs](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/ba32871f-3f1f-42f6-be08-e1562c71a1ee)
+
+
 # Project Description:
 
 This is a simple proof of concept we are going to build for the fun purpose in which whenever someone drops an object in an s3 bucket it will create 
