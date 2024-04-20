@@ -48,15 +48,26 @@ an EC2 instance automatically.
 
 ![image - 2024-04-20T113255 443](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/e779093e-f323-4c78-8d0d-41e91e843ced)
 
+### Step 4 :
+### Creating a Classic Load balancer:
+1. Navigate to Ec2 for Creating a Classic LB.
+2. Follow the outlined steps.
 
+![image - 2024-04-20T122358 558](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/5ebfa0b0-a4fe-44cf-a010-43224c3626d4)
 
+![image - 2024-04-20T122827 919](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/39368a90-a76b-4488-aad6-36b588fe24b1)
 
+![image - 2024-04-20T123057 170](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/503b0689-644b-4183-b678-f65dd2adfa0d)
 
+![image - 2024-04-20T123313 289](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/3ac14194-0870-4e54-bc0b-776de7847a77)
 
+![image - 2024-04-20T123738 808](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/1c936945-8c9a-4361-8288-3d6f272b73d3)
 
+![image - 2024-04-20T123953 178](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/948fc6de-af14-421b-bd5f-57d600bcf534)
 
+![image - 2024-04-20T124103 635](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/f52955be-b608-43b7-bda2-51b0ad4cbfe6)
 
-
+![image - 2024-04-20T124256 132](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/ffd2af0f-5411-494b-b763-132fe8d9bde1)
 
 
 
