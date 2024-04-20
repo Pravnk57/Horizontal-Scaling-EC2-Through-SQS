@@ -11,7 +11,7 @@ an EC2 instance automatically.
 ## Step 1: 
 ### Creating an S3 bucket:
 1. Navigate to S3 console.
-2. Foloowthe outlined steps.
+2. Follow the outlined steps.
 
 ![image (93)](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/d087d4b7-e61c-4084-815e-fccfcdc9627b)
 
@@ -30,6 +30,14 @@ an EC2 instance automatically.
 
 ![image (98)](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/ac30ef09-7bef-47a2-a040-f8478d442932)
 
+### Step 3 :
+### Creating an Event Notification for S3:
+
+1. Navigate to S3 console.
+2. Follow the outlined steps.
+
+![20 04 2024_11 11 36_REC](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/82fd8533-6f8c-4206-91e0-e7b35f2c03a7)
+![image (99)](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/5e7fcf2d-2ab3-4146-829a-7cfccf835529)
 
 
 
