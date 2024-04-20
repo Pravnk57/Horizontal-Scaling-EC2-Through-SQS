@@ -78,11 +78,17 @@ an EC2 instance automatically.
 
 ![image - 2024-04-20T125047 995](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/cdf4c935-787e-4539-88c0-a55a532c4594)
 
+![image - 2024-04-20T125507 626](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/5ee758db-5734-4c77-ba7b-c60e5f54f545)
 
+![image - 2024-04-20T125707 629](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/45759bea-6246-4203-b4ff-6b42d09630fa)
 
+![image - 2024-04-20T130345 706](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/00c8a36c-699a-40c5-8608-622f17bd769e)
 
+![image - 2024-04-20T130703 005](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/a7cf74ad-9c0f-4f3d-a68f-0722776885df)
 
+![image - 2024-04-20T131211 900](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/099aad6a-3720-47d2-b3d1-5d583079784f)
 
+![image - 2024-04-20T131655 258](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/3f92e9d1-8b0c-40c4-acbb-b58d05a85e6b)
 
 
 
