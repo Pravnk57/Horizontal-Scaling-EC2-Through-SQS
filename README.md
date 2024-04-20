@@ -69,8 +69,14 @@ an EC2 instance automatically.
 
 ![image - 2024-04-20T124256 132](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/ffd2af0f-5411-494b-b763-132fe8d9bde1)
 
+### Step 5 :
+### Creating a Auto-scaling Group:
+1. Navigate to Ec2 for creating a ASG.
+2. Follow the outlined steps.
 
+![image - 2024-04-20T124610 658](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/d5989fdc-0403-422b-839c-72c2600e98cd)
 
+![image - 2024-04-20T125047 995](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/cdf4c935-787e-4539-88c0-a55a532c4594)
 
 
 
