@@ -9,7 +9,7 @@ This is a simple proof of concept we are going to build for the fun purpose in w
 an EC2 instance automatically.
 
 ## Step 1: 
-## Creating an S3 bucket:
+### Creating an S3 bucket:
 1.Navigate to the S3 Console.
 2.Follow the Outlined steps below.
 
