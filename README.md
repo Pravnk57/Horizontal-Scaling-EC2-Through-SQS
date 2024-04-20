@@ -90,8 +90,11 @@ an EC2 instance automatically.
 
 ![image - 2024-04-20T131655 258](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/3f92e9d1-8b0c-40c4-acbb-b58d05a85e6b)
 
+![image - 2024-04-20T132207 984](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/f5a32494-7ceb-4e25-9a99-39314cf42f8c)
 
+![image - 2024-04-20T132357 831](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/f9c1d2ae-6a84-4486-b29d-ed38fba897ad)
 
+![image - 2024-04-20T132556 138](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/1b3ebe73-d562-49ba-9d12-4ff7d45311d4)
 
 
 
