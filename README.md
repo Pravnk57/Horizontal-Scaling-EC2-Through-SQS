@@ -11,7 +11,7 @@ an EC2 instance automatically.
 ## Step 1: 
 ### Creating an S3 bucket:
 1.Navigate to the S3 Console.
-2.Follow the Outlined steps below.
+2.Follow the outlined steps.
 
 ![image (93)](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/d087d4b7-e61c-4084-815e-fccfcdc9627b)
 
