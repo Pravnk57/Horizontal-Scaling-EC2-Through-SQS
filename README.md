@@ -35,13 +35,18 @@ an EC2 instance automatically.
 
 1. Navigate to S3 console.
 2. Follow the outlined steps.
+3. Go to the bucket Properties.
 
 ![20 04 2024_11 11 36_REC](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/82fd8533-6f8c-4206-91e0-e7b35f2c03a7)
 ![image (99)](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/5e7fcf2d-2ab3-4146-829a-7cfccf835529)
 
+![image (100)](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/c4f8844d-695e-4754-b483-8b909ec6ca82)
 
+![image - 2024-04-20T112451 773](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/0d64d496-9d17-414d-b474-e26ba4172a67)
 
+![image - 2024-04-20T112946 248](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/82c82353-07db-4faf-8f66-36dd136149a5)
 
+![image - 2024-04-20T113255 443](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/e779093e-f323-4c78-8d0d-41e91e843ced)
 
 
 
