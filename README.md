@@ -111,9 +111,19 @@ an EC2 instance automatically.
 ![image - 2024-04-20T135003 984](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/0d19dd32-0c6d-4d12-ae30-dfd10bcac6d8)
 
 
+### Step 6 :
+### Creating a Cloudwatch alarm :
+1. Navigate to Cloudwatch console.
+2. Follow the outlined steps.
+3. Here we are going to create a alarm which will trigger Ec2 action after getting SQS metric which is "ApproximateNumberOfMessagesVisible"  
 
+![image - 2024-04-22T160103 409](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/6bd47577-36ae-4ba0-ac5f-3e257b8d6288)
 
+![image - 2024-04-22T160605 011](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/b595304d-b958-4756-b84c-20a7c6cf5439)
 
+![image - 2024-04-22T160704 548](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/b9696618-bb76-409a-a4ad-08dce42c7534)
+
+![image - 2024-04-22T160825 386](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/65f5ec7f-0bcd-4e1c-a836-9d1dbc78f70b)
 
 
 
