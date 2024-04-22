@@ -138,7 +138,7 @@ an EC2 instance automatically.
 ![image - 2024-04-22T163232 644](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/4331e8bd-d43e-4a28-8435-858bb365887e)
 
 ### Step 7 :
-### Creating a Dynnamic scaling Policy :
+### Creating a Dynamic scaling Policy :
 1. Navigate to Ec2 console.
 2. Naviagte to ASG.
 3. Follow the outlined steps.
