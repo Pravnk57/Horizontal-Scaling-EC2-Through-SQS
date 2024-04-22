@@ -151,9 +151,9 @@ an EC2 instance automatically.
 
 ![image - 2024-04-22T170221 879](https://github.com/Pravnk57/Horizontal-Scaling-EC2-Through-SQS/assets/117705143/545c1076-8e41-4a81-932c-d4fa82e5da10)
 
+### Now Navigate to the S3 and put something in the bucket and you can see the number of messages in the sqs queue has come to 1 which will trigger our Cloudwatch alarm subsequentlly triggering the auto-scaling group and you will see the EC2 has been created.
 
-
-
+### MISSION ACCOMPLISHED !!!!
 
 
 
